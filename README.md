@@ -1,13 +1,8 @@
-# Expo Router Example
+# React Native Job Application app
+- JSMastery Project
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
+## Published on Netlify
 
 ```sh
-npx create-expo-app -e with-router
+https://65a034cd07f24f2018d51ce8--gorgeous-belekoy-9a970a.netlify.app/
 ```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
